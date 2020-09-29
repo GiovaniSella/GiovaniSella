@@ -1,4 +1,9 @@
-### Hi there 👋
+### Sobre mim 
+* Estudante do Instituto Federal do Paraná - Campus Londrina
+  * Realizando o curso Técnico em Informática Integrado ao Ensino Médio
+* Tenho afinidade com programação 
+  * Estudando a tecnologia que for melhor para o meu projeto atual kk 
+* Faço parte de um projeto de extensão de robótica, e projeto um projeto de pesquisa em supercapacitores também pelo IFPR.
 
 <!--
 **GiovaniSella/GiovaniSella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
