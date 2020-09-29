@@ -10,6 +10,7 @@
 <a href = "mailto:gipereirasella@gmail.com"><img src="gmail.svg" width="30"></a>
 <a href = "https://t.me/GiovaniSella"><img src="telegram.svg" width="30"></a>
 <a href = "https://www.facebook.com/giovani.pereirasella"><img src="facebook.svg" width="30"></a>
+ <a href = "https://www.facebook.com/giovani.pereirasella"><img src="discord.svg" width="30"></a>
 <!--
 **GiovaniSella/GiovaniSella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
