@@ -5,12 +5,13 @@
   * Estudando a tecnologia que for melhor para o meu projeto atual kk 
 * Faço parte de uma equipe de robótica e tenho um projeto de pesquisa sobre supercapacitores também pelo IFPR.
 
-<h4 <p align="center">Entre em contato comigo via</p> 
+<h4 <p align="center">Entre em contato comigo via:</p> 
+<h5 <p align="center">(Não aconcelho twitter nem facebook kkkkkk)</p> 
 <p align="center"> 
 <a href = "mailto:gipereirasella@gmail.com"><img src="gmail.svg" width="30"></a>
 <a href = "https://t.me/GiovaniSella"><img src="telegram.svg" width="30"></a>
 <a href = "https://www.facebook.com/giovani.pereirasella"><img src="facebook.svg" width="30"></a>
- <a href = "https://discord.com/channels/@gigipereirasella#6466"><img src="discord.svg" width="30"></a>
+<a href = "https://twitter.com/gigiofano"><img src="twitter.svg" width="30"></a>
 <!--
 **GiovaniSella/GiovaniSella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
