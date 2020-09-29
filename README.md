@@ -5,8 +5,8 @@
   * Estudando a tecnologia que for melhor para o meu projeto atual kk 
 * Faço parte de uma equipe de robótica e tenho um projeto de pesquisa sobre supercapacitores também pelo IFPR.
 
-<h2 <p align="center">Entre em contato comigo via:</p> 
-<p align="center">(Não aconcelho twitter nem facebook kkkkkk)</p> 
+<h3 <p align="center">Entre em contato comigo via:</p> 
+<h4 <p align="center">(Não aconcelho twitter nem facebook kkkkkk)</p> 
 <p align="center"> 
 <a href = "mailto:gipereirasella@gmail.com"><img src="gmail.svg" width="30"></a>
 <a href = "https://t.me/GiovaniSella"><img src="telegram.svg" width="30"></a>
