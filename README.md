@@ -5,8 +5,8 @@
 
 <h3 <p align="center">Entre em contato comigo via:</p> 
 <p align="center"> 
-<a href = "mailto:gipereirasella@gmail.com"><img src="Imagens/gmailCiano.svg" width="30"></a>
-<a href = "https://t.me/GiovaniSella"><img src="Imagens/telegramCiano.svg" width="30"></a>
+<a href = "mailto:gipereirasella@gmail.com"><img src="Imagens/gmailCiano.svg" width="50"></a>
+<a href = "https://t.me/GiovaniSella"><img src="Imagens/telegramCiano.svg" width="50"></a>
 
 <!--
 **GiovaniSella/GiovaniSella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
