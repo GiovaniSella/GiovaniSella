@@ -1,9 +1,7 @@
 ### Sobre mim 
-* Estudo no Instituto Federal do Paraná - Campus Londrina
-  - Curso Técnico em Informática Integrado ao Ensino Médio
-* Tenho afinidade com programação, lógica, Robótica e adoro audiovisual
-  - Estudando a tecnologia que for melhor para o meu projeto atual kk 
-* Faço parte de uma equipe de robótica e tenho um projeto de pesquisa sobre supercapacitores também pelo IFPR
+* Estudo no Instituto Federal do Paraná - Campus Londrina. Faço o curso Técnico em Informática Integrado ao Ensino Médio
+* Tenho afinidade com programação, lógica, Robótica e audiovisual. Tenho um projeto de pesquisa sobre supercapacitores e uma equipe de robórica também pelo IFPR
+* Estudando a tecnologia que for melhor para o meu projeto atual kk 
 
 <h3 <p align="center">Entre em contato comigo via:</p> 
 <p align="center"> 
