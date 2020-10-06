@@ -5,7 +5,7 @@
 
 <h3 <p align="center">Entre em contato comigo via:</p> 
 <p align="center"> 
-<a href = "mailto:gipereirasella@gmail.com"><img src="gmail.svg" width="30"></a>
+<a href = "mailto:gipereirasella@gmail.com"><img src="imagens/gmailCiano.svg" width="30"></a>
 <a href = "https://t.me/GiovaniSella"><img src="telegram.svg" width="30"></a>
 <h4 <p align="center">(Não aconcelho twitter nem facebook kk)</p> 
 <!--
