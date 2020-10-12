@@ -1,3 +1,11 @@
+<!doctype html>
+<html>
+    <head>
+      
+    </head>
+    <body>
+    </body>
+</html>
 ### Sobre mim 
 * Estudo no Instituto Federal do Paraná - Campus Londrina. Faço o curso Técnico em Informática Integrado ao Ensino Médio
 * Tenho afinidade com programação, lógica, Robótica e audiovisual. Tenho um projeto de pesquisa sobre supercapacitores e uma equipe de robórica também pelo IFPR
