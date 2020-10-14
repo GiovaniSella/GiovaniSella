@@ -4,12 +4,12 @@
     <link rel="stylesheet" href="./Main.css">
 </head>
 <body>
-    <div id="container1">
+    <div id="container1"><ul>
         <strong><p>     -Faço o curso Técnico em Informática Integrado ao Ensino Médio no Instituto Federal do Paraná - Campus Londrina.</p></strong>
         <strong><p>     -Tenho afinidade com programação, lógica, Robótica e audiovisual.</p></strong>
         <strong><p>     -Tenho um projeto de pesquisa sobre supercapacitores e uma equipe de robórica do IFPR</p></strong>
         <strong><p>     -Estudando a tecnologia que for melhor para o meu projeto atual</p></strong>
-    </div>
+    </ul></div>
     <div id="conteiner2" align="center">
         <h3>Entre em contato comigo via:</h3> 
         <a href = "mailto:gipereirasella@gmail.com">
