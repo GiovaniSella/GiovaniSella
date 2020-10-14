@@ -5,8 +5,10 @@
 </head>
 <body>
     <div id="container1">
-        <h2>Estudo no Instituto Federal do Paraná - Campus Londrina. Faço o curso Técnico em Informática Integrado ao Ensino Médio
-            Tenho afinidade com programação, lógica, Robótica e audiovisual. Tenho um projeto de pesquisa sobre supercapacitores e uma equipe de robórica do IFPR
+        <h2>Estudo no Instituto Federal do Paraná - Campus Londrina. 
+            Faço o curso Técnico em Informática Integrado ao Ensino Médio
+            Tenho afinidade com programação, lógica, Robótica e audiovisual. 
+            Tenho um projeto de pesquisa sobre supercapacitores e uma equipe de robórica do IFPR
             Estudando a tecnologia que for melhor para o meu projeto atual</h2>
     </div>
     <div id="conteiner2">
