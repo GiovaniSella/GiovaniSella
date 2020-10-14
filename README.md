@@ -1,6 +1,6 @@
 
 <head>
-    <h1>Sobre mim:</h2>
+    <strong><h1>Sobre mim:</h2></strong>
     <link rel="stylesheet" href="./Main.css">
 </head>
 <body>
