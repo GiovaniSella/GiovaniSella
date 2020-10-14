@@ -10,7 +10,7 @@
         <h3>-Tenho um projeto de pesquisa sobre supercapacitores e uma equipe de robórica do IFPR</h3>
         <h3>-Estudando a tecnologia que for melhor para o meu projeto atual</h3>
     </div>
-    <div id="conteiner2">
+    <div id="conteiner2" align="center">
         <h3>Entre em contato comigo via:</h3> 
         <a href = "mailto:gipereirasella@gmail.com">
         <img src="./Imagens/Logo-gmail.svg" width="75"></a>
